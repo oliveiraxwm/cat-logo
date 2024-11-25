@@ -33,7 +33,7 @@ h1 {
 
 p {
     font-size: 50px;
-    color: white;
+    color: rgb(241, 186, 186);
 }
 
 .categoria-videos {
